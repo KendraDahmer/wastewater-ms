@@ -1,0 +1,2 @@
+load("/Users/kendra/Library/CloudStorage/Box-Box/Pickering_EnvSTH_R01/pilot studies/ww_soil_STH-ms/Data/qPCR_prev_sum.rds")
+load("/Users/kendra/Library/CloudStorage/Box-Box/Pickering_EnvSTH_R01/pilot studies/ww_soil_STH-ms/Data/qPCR_prev_summary.rds")
